@@ -17,3 +17,14 @@
 
 ### Prewiew 
 ![demo](https://github.com/user-attachments/assets/03a72a70-4db2-41a1-8723-9363b544ff00)
+
+Example Response: 
+
+```json
+{
+  "success": true,
+  "challenge_ts": "2025-02-25T16:49:50Z",
+  "hostname": "2captcha.com",
+  "score": 0.3,
+  "action": "demo_action"
+}
