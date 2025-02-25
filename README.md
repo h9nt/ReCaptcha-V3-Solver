@@ -6,8 +6,7 @@
 > [!WARNING] 
 > I Will not upload it here, cuz it's would not give me something, maybe I will sell it soon as full solver or as api. 
 
+#### Score Breakdown
 
-
-Small Prewiew , where im just solve the V3 Captcha Demo from [***https://2captcha.com/de/demo/recaptcha-v3***]
-
+### Prewiew 
 ![demo](https://github.com/user-attachments/assets/03a72a70-4db2-41a1-8723-9363b544ff00)
