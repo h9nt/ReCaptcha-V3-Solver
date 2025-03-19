@@ -3,8 +3,8 @@
 > [!NOTE]
 > Full Requests based & No Weird External ass apis, free for me cuz i know the full process xD. <br>
 
-> [!WARNING] 
-> I Will not upload it here, cuz it's would not give me something, maybe I will sell it soon as full solver or as api. 
+> [!WARNING]
+> i decided to leak my solver, cuz it's flagged asf, do with it whatever u want. 
 
 ###  Score Breakdown
 | Score | Meaning     | Recommended Action                |
